@@ -1,1 +1,1 @@
-chessman add!
+chessman add!jinsun add!
