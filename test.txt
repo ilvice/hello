@@ -1,6 +1,9 @@
+jinsun add two!
 ilvice add two!
 chessman creat!
 chessman add!
 jinsun add!
 ilvice add!
 ilvice add two!
+jinsun add two!
+merge ok!
