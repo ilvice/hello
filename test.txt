@@ -1,3 +1,5 @@
+jinsun add two!
 chessman creat!
 chessman add!
 jinsun add!
+jinsun add two!
